@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "mh.cd42")(type "KiCad")(uri "C:/Users/Rafael Alzate/OneDrive/Documentos/KiCad/Librerias/mh-cd42/cd42.kicad_sym")(options "")(descr ""))
+  (lib (name "ESP32-DEVKIT-V1")(type "Legacy")(uri "C:/Users/Rafael Alzate/OneDrive/Documentos/KiCad/Librerias/ESP32-DEVKIT-V1/ESP32-DEVKIT-V1.lib")(options "")(descr ""))
+)
